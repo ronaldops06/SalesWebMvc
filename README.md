@@ -6,7 +6,9 @@
 </p>
 <br/>
 <p align="justify"> Neste projeto foi implementado um sistema simples de vendas, aonde é possível gerenciar departamentos, vendedores e vendas.
-  O objetivo principal deste projeto é aplicar conceitos de orientação a objetos em um sistema possívelmente real.
+  O objetivo principal deste projeto é aplicar conceitos de orientação a objetos, Linq, Lambda, entre outros, em um sistema possívelmente real.
+  <br />
+  O padrão de arquitetura de software utilizado neste projeto foi MVC (Model-View-Controller).
 </p>
 <h3 align="left">Tecnologias</h3>
 Este projeto foi desenvolvido com a seguinte tecnologia:
